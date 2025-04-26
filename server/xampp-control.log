@@ -1,0 +1,30 @@
+5:33:03 PM  [main] 	Initializing Control Panel
+5:33:03 PM  [main] 	Windows Version:  Home  64-bit
+5:33:03 PM  [main] 	XAMPP Version: 8.2.4
+5:33:03 PM  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+5:33:03 PM  [main] 	You are not running with administrator rights! This will work for
+5:33:03 PM  [main] 	most application stuff but whenever you do something with services
+5:33:03 PM  [main] 	there will be a security dialogue or things will break! So think 
+5:33:03 PM  [main] 	about running this application with administrator rights!
+5:33:03 PM  [main] 	XAMPP Installation Directory: "c:\moodles\server\"
+5:33:03 PM  [main] 	Checking for prerequisites
+5:33:05 PM  [main] 	All prerequisites found
+5:33:05 PM  [main] 	Initializing Modules
+5:33:05 PM  [Apache] 	XAMPP Apache is already running on port 80
+5:33:05 PM  [Apache] 	XAMPP Apache is already running on port 443
+5:33:05 PM  [mysql] 	XAMPP MySQL is already running on port 3306
+5:33:05 PM  [main] 	The FileZilla module is disabled
+5:33:05 PM  [main] 	The Mercury module is disabled
+5:33:05 PM  [Tomcat] 	Problem detected: Tomcat Not Found!
+5:33:05 PM  [Tomcat] 	Disabling Tomcat buttons
+5:33:05 PM  [Tomcat] 	Run this program from your XAMPP root directory!
+5:33:05 PM  [Tomcat] 	Problem detected: Required Tool catalina_start.bat Not Found!
+5:33:05 PM  [Tomcat] 	Problem detected: Required Tool catalina_stop.bat Not Found!
+5:33:05 PM  [Tomcat] 	Problem detected: Required Tool catalina_service.bat Not Found!
+5:33:05 PM  [Tomcat] 	Java is already running on port 8080!
+5:33:05 PM  [Tomcat] 	Is Tomcat already running?
+5:33:05 PM  [main] 	Starting Check-Timer
+5:33:05 PM  [main] 	Control Panel Ready
+5:34:40 PM  [main] 	Deinitializing Modules
+5:34:40 PM  [main] 	Deinitializing Control Panel
+
